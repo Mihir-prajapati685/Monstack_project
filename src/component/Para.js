@@ -145,19 +145,7 @@ An informal letter should include:
 The Sender’s address
 Date
 Greeting/Salutation
-Introduction
-Body of the letter
-Conclusion
-Signature
-Q2
-How do you start an informal letter?
-As far as an informal letter is concerned, you can start by greeting the person and conveying regards. You can then state the purpose of your letter.
 
-Q3
-What is the difference between a formal letter and an informal letter?
-A formal letter is written in a professional manner where you directly state the intent of your letter and what you expect; whereas, an informal letter can be written to anyone whom you are close to about anything you want to share.
-
-ENGLISH Related Links
       </p>
       </div>
   )

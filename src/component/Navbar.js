@@ -7,11 +7,14 @@ export default function Navbar() {
   useEffect(() => {
     Aos.init();
     },[])
+  
 
+  
+  
   return (
     <div className="navbar"> 
       <nav class="main_nav border-gray-200 dark:bg-[#154360] "data-aos="fade-down-left"  data-aos-easing="linear"
-     data-aos-duration="700">
+     data-aos-duration="700" >
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a
             href="https://flowbite.com/"
